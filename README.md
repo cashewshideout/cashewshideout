@@ -5,14 +5,9 @@
 
 - 🔭 I’m currently working on 
   - Making a better profile
-  - Updating my [blog](https:/www.cashewshideout.com) more often
-- 🌱 I’m currently learning
-  - Docker
-  - Kubernetes
+  - Updating my [blog](https:/www.thepocketdeveloper.com)
 - 📫 Azure DevOps YAML (muliti-stage) Pipeline Series on MercuryWorks
-  - [Creating an Azure DevOps Multi-Stage Pipeline Pt 1](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
-  - [Creating an Azure DevOps Multi-Stage Pipeline Pt 2](https://www.mercuryworks.com/blog/multistage-pipeline-azure-devops-pt2/)
-  - [Creating an Azure DevOps Multi-Stage Pipeline Pt 3](https://www.mercuryworks.com/blog/azure-devops-multi-stage-pipelines-part-3/)
+  - [Creating an Azure DevOps Multi-Stage Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
 
 <!--
 **cashewshideout/cashewshideout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
