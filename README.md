@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on 
   - Making a better profile
-  - Updating my [blog](https:/www.thepocketdeveloper.com)
+  - Updating my [blog](https://pocketdeveloper.me)
 - 📫 Azure DevOps YAML (muliti-stage) Pipeline Series on MercuryWorks
   - [Creating an Azure DevOps Multi-Stage Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
 
