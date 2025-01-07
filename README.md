@@ -1,6 +1,5 @@
 ### Hi there :slightly_smiling_face:
 
-[![Twitter](https://img.shields.io/badge/@cashewshideout-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cashewshideout)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanw1019/)
 
 - 🔭 I’m currently working on 
