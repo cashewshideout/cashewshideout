@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanw1019/)
 
-- 🔭 I’m currently working on 
-  - Making a better profile
-  - Updating my [blog](https://pocketdeveloper.me)
+- 🔭 I’m currently working on updating my [blog](https://pocketdeveloper.me) regularly
+- 🌱 I’m currently learning ...
+  - More about containers and Kubernetes
 - 📫 Azure DevOps YAML (muliti-stage) Pipeline Series on MercuryWorks
   - [Creating an Azure DevOps Multi-Stage Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
 
