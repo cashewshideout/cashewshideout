@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - Digging deeper into Containers and Kubernetes
   - Prepping for AZ-500 Exam
-- ⚡ Authored Posts on Company Blog
+- ⚡ External Authored Blog Posts
   - [Creating an Azure DevOps Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
   - [Advanced Azure DevOps Pipeline](https://mercuryworks.com/blog/enhance-your-azure-dev-ops-pipline)
   - [Infrastructure as Code - Bicep](https://mercuryworks.com/blog/azure-bicep)
