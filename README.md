@@ -2,13 +2,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanw1019/)
 
-- 🔭 Personal Website: [Pocket Developer](https://pocketdeveloper.me)
+- 🔭 Personal
+  - [Pocket Developer](https://pocketdeveloper.me)
+  - [Online Resume](https://resume.pocketdeveloper.me)
 - 🌱 I’m currently learning ...
   - Digging deeper into Containers and Kubernetes
   - Prepping for AZ-500 Exam
-- ⚡ 
-  - [Creating an Azure DevOps Multi-Stage Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
-  - [Online Resume](https://resume.pocketdeveloper.me)
+- ⚡ Authored Posts on Company Blog
+  - [Creating an Azure DevOps Pipeline](https://www.mercuryworks.com/blog/creating-a-multi-stage-pipeline-in-azure-devops/)
+  - [Advanced Azure DevOps Pipeline](https://mercuryworks.com/blog/enhance-your-azure-dev-ops-pipline)
+  - [Infrastructure as Code - Bicep](https://mercuryworks.com/blog/azure-bicep)
 
 <!--
 **cashewshideout/cashewshideout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
